@@ -1,0 +1,48 @@
+baseURL: http://yannickperrenet.github.io
+title: Yannick's blog
+theme: coder
+defaultContentLanguage: en-us
+# https://www.webfx.com/tools/emoji-cheat-sheet/
+enableEmoji: true
+rssLimit: -1  # unlimited
+enableRobotsTXT: true
+
+menu:
+  main:
+    - name: About
+      weight: 1
+      url: about/
+    - name: Blog
+      weight: 2
+      url: posts/
+    - name: Projects
+      weight: 3
+      url: projects/
+
+params:
+  author: Yannick Perrenet
+  info: Software Engineer
+  description: Personal blog
+  keywords: Blog
+  since: 2023
+  colorScheme: auto
+  avatarURL: avatar.jpg
+  # https://favicon.io/emoji-favicons/
+  favicon_16: favicon16.png
+  favicon_32: favicon32.png
+
+  social:
+    - name: GitHub
+      # https://forkaweso.me/Fork-Awesome/icons/
+      icon: fa fa-github fa-2x
+      weight: 1
+      url: https://github.com/yannickperrenet
+    - name: LinkedIn
+      icon: fa fa-linkedin-square fa-2x
+      weight: 2
+      url: https://linkedin.com/in/yannickperrenet
+    - name: RSS
+      icon: fa fa-rss fa-2x
+      weight: 3
+      url: index.xml
+      type: application/rss+xml
