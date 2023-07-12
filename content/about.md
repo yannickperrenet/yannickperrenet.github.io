@@ -20,7 +20,8 @@ learnings, but as the market had become too
 [commoditized](https://www.joelonsoftware.com/2002/06/12/strategy-letter-v/) in our opinion we
 didn't see a way forward.
 
-If you have any ideas of what I should do next, then please reach out to me through [my LinkedIn](https://www.linkedin.com/in/yannickperrenet).
+Now that I'm no longer working on Orchest, feel free to reach out to me through [my
+LinkedIn](https://www.linkedin.com/in/yannickperrenet) if you'd like to work with me.
 
 ![Picture of me](/me-in-iceland.jpg "Thingvellir Nation Park in Iceland")
 
