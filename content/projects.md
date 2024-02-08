@@ -3,10 +3,10 @@ title: "Projects"
 date: 2023-06-12T12:08:44+02:00
 ---
 
-*   [Orchest](https://github.com/orchest/orchest) (3.9K+ GitHub stars ⭐) - A platform (on
+*   [Orchest](https://github.com/orchest/orchest) (4K+ GitHub stars ⭐) - A platform (on
     Kubernetes) to build, schedule and monitor workflows.
 
-*   [bookmarkdown](https://github.com/yannickperrenet/bookmarkdown) (8 ⭐) - Parse your browser's exported
+*   [bookmarkdown](https://github.com/yannickperrenet/bookmarkdown) (15 ⭐) - Parse your browser's exported
     HTML bookmark file to Markdown.
 
 *   [huffman-coding](https://github.com/yannickperrenet/huffman-coding) - The fastest Python
@@ -19,3 +19,5 @@ date: 2023-06-12T12:08:44+02:00
     Python's `asyncio`
 *   [strman](https://github.com/yannickperrenet/strman) - Implementation of Python's `str.replace()`
     in C with language bindings using `ctypes`
+*   [kvstore](https://github.com/yannickperrenet/kvstore) - Incredibly simple in-memory key-value
+    store written in C.
