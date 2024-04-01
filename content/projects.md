@@ -13,6 +13,9 @@ date: 2023-06-12T12:08:44+02:00
     implementation of Huffman coding by using a Finite State Machine to instantly decode bytes
     (instead of decoding bit by bit).
 
+*   [introselect](https://github.com/yannickperrenet/introselect) - The introselect selection
+    algorithm developed by David R. Musser.
+
 ## Educational
 
 *   [aioreq](https://github.com/yannickperrenet/aioreq) - Asynchronously make GET requests using only
