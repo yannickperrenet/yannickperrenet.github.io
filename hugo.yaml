@@ -15,18 +15,15 @@ menu:
     - name: Blog
       weight: 2
       url: posts/
-    - name: Projects
-      weight: 3
-      url: projects/
 
 params:
   author: Yannick Perrenet
-  info: Software Engineer
+  # info: Software Engineer
   description: Personal blog
   keywords: Blog
   since: 2023
   colorScheme: auto
-  avatarURL: avatar.jpg
+  avatarURL: avatar.png
   # https://favicon.io/emoji-favicons/
   favicon_16: favicon16.png
   favicon_32: favicon32.png
