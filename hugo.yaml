@@ -1,7 +1,7 @@
 baseURL: https://yannickperrenet.com
 title: Yannick's blog
 theme: coder
-defaultContentLanguage: en-us
+defaultContentLanguage: en
 # https://www.webfx.com/tools/emoji-cheat-sheet/
 enableEmoji: true
 rssLimit: -1  # unlimited

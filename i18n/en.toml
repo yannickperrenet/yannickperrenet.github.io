@@ -1,0 +1,12 @@
+[reading_time]
+one = "Super quick read"
+other = "{{ .Count }}-minute read"
+
+[page_not_found]
+other = "Page not found."
+
+[page_does_not_exist]
+other = "The page you are looking for does not exist."
+
+[head_back]
+other = "Head back to the <a href=\"{{ . }}\">homepage</a>."
