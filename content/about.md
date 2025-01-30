@@ -24,4 +24,4 @@ If you want to reach out to me, please send me an [email](mailto:ypblog@proton.m
 
 # Work experience
 
-Please see my [resume](/resume-yannick.pdf).
+Checkout my [resume](/resume-yannick.pdf).
