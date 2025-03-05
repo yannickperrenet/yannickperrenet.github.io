@@ -1,7 +1,7 @@
 ---
 title: "Thoughts on '300 Years of FOSSIL FUELS in 300 Seconds'"
 date: 2025-01-30
-lastmod: 2025-01-30
+lastmod: 2025-03-05
 ---
 
 [The video](https://www.youtube.com/watch?v=cJ-J91SwP8w) was written and narrated by [Richard Heinberg](https://richardheinberg.com/about) who, among a list of other things, received the Atlas Award for climate heroes in 2012 and the M. King Hubbert Award for Excellence in Energy Education in 2006.
@@ -156,6 +156,11 @@ To me it is an excellent video containing many valuable messages. Below I want t
 -   Absolutely banger ending! Love the optimism that it conveys whilst still addressing all that needs to be done.
 
     A good place to start is switching to a vegan diet and taking the bike more often.
+
+
+## Acknowledgements
+
+I want to thank Lucas Jongsma for the discussions and arguments that led me to writing this blog post. Many of my thoughts on these subject originate from sources shared by Lucas. Thank you :)
 
 
 [^2]:
