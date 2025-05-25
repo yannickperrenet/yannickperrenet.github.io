@@ -21,7 +21,3 @@ If you want to reach out to me, please send me an [email](mailto:ypblog@proton.m
 *   [introselect](https://github.com/yannickperrenet/introselect) - The introselect selection algorithm developed by David R. Musser.
 
 *   [aioreq](https://github.com/yannickperrenet/aioreq) - Asynchronously make GET requests using only Python's `asyncio`
-
-# Work experience
-
-Checkout my [resume](/resume-yannick.pdf).
