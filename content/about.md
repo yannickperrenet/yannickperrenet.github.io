@@ -1,7 +1,7 @@
 ---
 title: "About"
 date: 2023-05-24T14:41:59+02:00
-lastmod: 2024-12-09
+lastmod: 2025-07-05
 ---
 
 My name is Yannick and I'm living in The Netherlands. In my free time I like to tinker behind my computer working on open source projects, try to climb a challenging boulder in the climbing gym or hit a "Por Tres" (X3) on the padel court. Lately, I've been enjoying myself trying to solve competitive programming problems on [Codeforces](https://codeforces.com/problemset).
@@ -13,6 +13,8 @@ If you want to reach out to me, please send me an [email](mailto:ypblog@proton.m
 # Projects
 
 *   [Orchest](https://github.com/orchest/orchest) (4K+ GitHub stars ⭐) - A platform (on Kubernetes) to build, schedule and monitor workflows.
+
+*   [slowfs](https://github.com/yannickperrenet/slowfs) - Filesystem in Python. Learn about the Linux filesystem implementation.
 
 *   [bookmarkdown](https://github.com/yannickperrenet/bookmarkdown) (17 ⭐) - Parse your browser's exported HTML bookmark file to Markdown.
 
