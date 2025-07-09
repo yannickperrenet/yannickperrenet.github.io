@@ -8,7 +8,7 @@ My name is Yannick and I'm living in The Netherlands. In my free time I like to 
 
 Previously, I ran a startup called [Orchest](https://github.com/orchest/orchest) where we built an open-source workflow scheduler similar to Apache Airflow. We'd been building Orchest and offering it as a managed cloud service for three years before deciding to return the capital to our investors (Gradient Ventures, Basis Set Ventures, Seedcamp, Script Capital, Data Community Fund and angels like Anthony Goldbloom). We ended up returning about $2M of the $4.15M we raised, including the sale of some of the developed IP which was a 5-figure deal. Those past years were filled with tons of learnings, but as the market had become too [commoditized](https://www.joelonsoftware.com/2002/06/12/strategy-letter-v/) in our opinion we didn't see a way forward.
 
-If you want to reach out to me, please send me an [email](mailto:ypblog@proton.me).
+If you want to reach out to me, please send me an at: `blogyp at proton dot me`.
 
 # Projects
 
