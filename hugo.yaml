@@ -15,6 +15,9 @@ menu:
     - name: Blog
       weight: 2
       url: posts/
+    - name: Feed
+      weight: 3
+      url: feed/
 
 params:
   author: Yannick Perrenet
